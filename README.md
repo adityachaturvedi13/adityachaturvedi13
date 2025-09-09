@@ -51,7 +51,6 @@ Hi there! I'm **Aditya**, a Computer Science undergraduate passionate about buil
 ## 📫 Let’s Connect  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aditya-chaturvedi-cse)  
-- 🖥️ [GitHub](https://github.com/adityachaturvedi13)  
 - 📧 Email: aditya13jsr@gmail.com  
 
 ---
